@@ -1,0 +1,10 @@
+com/mapper/UserMapper.class
+com/web/CheckCodeServlet.class
+com/web/LoginServlet.class
+com/pojo/Brand.class
+com/web/SelectAllServlet.class
+com/service/UserService.class
+com/mapper/BrandMapper.class
+com/pojo/User.class
+com/util/SqlSessionFactoryUtils.class
+com/service/BrandService.class

@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:10:14:13 -0700] "GET /brand-demo HTTP/1.1" 302 - http-bio-8000-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:10:14:14 -0700] "GET /brand-demo/ HTTP/1.1" 404 973 http-bio-8000-exec-3 9
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:10:14:22 -0700] "GET /brand-demo/brand.jsp HTTP/1.1" 200 648 http-bio-8000-exec-4 524
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:10:14:43 -0700] "GET /brand-demo/brand.jsp HTTP/1.1" 200 648 http-bio-8000-exec-5 1
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:10:15:06 -0700] "GET /brand-demo HTTP/1.1" 302 - http-bio-8000-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:10:15:06 -0700] "GET /brand-demo/ HTTP/1.1" 404 973 http-bio-8000-exec-3 10
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:10:15:54 -0700] "GET /brand-demo/login.jsp HTTP/1.1" 200 825 http-bio-8000-exec-4 38
+0:0:0:0:0:0:0:1 - - [16/Jul/2022:10:16:02 -0700] "GET /brand-demo/loginServlet?username=good&password=saada HTTP/1.1" 500 3475 http-bio-8000-exec-5 178
